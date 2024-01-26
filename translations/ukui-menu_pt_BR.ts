@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/UtilityFunction/functionclassifybutton.cpp" line="268"/>
         <source>Mobile</source>
-        <translation>移动</translation>
+        <translation>Móvel</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/functionclassifybutton.cpp" line="271"/>
@@ -145,31 +145,31 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="vanished">开发</translation>
+        <translation type="vanished">Desenvolvimento</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="vanished">图像</translation>
+        <translation type="vanished">Imagem/translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="vanished">游戏</translation>
+        <translation type="vanished">Jogos</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="vanished">办公</translation>
+        <translation type="vanished"Escritório</translation>
     </message>
     <message>
         <source>Education</source>
-        <translation type="vanished">教育</translation>
+        <translation type="vanished">Educação</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="vanished">系统</translation>
+        <translation type="vanished">Sistema</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation type="vanished">其它</translation>
+        <translation type="vanished">Outros</translation>
     </message>
 </context>
 <context>
@@ -177,69 +177,69 @@
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="216"/>
         <source>Pin to all</source>
-        <translation>固定到“所有软件”</translation>
+        <translation>Fixar para todos”</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="219"/>
         <source>Unpin from all</source>
-        <translation>从“所有软件”取消固定</translation>
+        <translation>Desfixar de todos</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="228"/>
         <source>Pin to taskbar</source>
-        <translation>固定到任务栏</translation>
+        <translation>Fixar na barra de tarefas</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="231"/>
         <source>Unpin from taskbar</source>
-        <translation>从任务栏取消固定</translation>
+        <translation>Desfixar da barra de tarefas</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="234"/>
         <source>Add to desktop shortcuts</source>
-        <translation>添加到桌面快捷方式</translation>
+        <translation>Adiconar atalho a área de trabalho</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="245"/>
         <source>Uninstall</source>
-        <translation>卸载</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <source>Hibernate</source>
-        <translation type="vanished">休眠</translation>
+        <translation type="vanished">Hibernar</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="259"/>
         <source>Sleep</source>
-        <translation>睡眠</translation>
+        <translation>Dormir</translation>
     </message>
     <message>
         <source>Lock Screen</source>
-        <translation type="vanished">锁屏</translation>
+        <translation type="vanished">Tela</translation>
     </message>
     <message>
         <source>Switch User</source>
-        <translation type="vanished">切换用户</translation>
+        <translation type="vanished">Mudar de Usuário</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="261"/>
         <source>Log Out</source>
-        <translation>注销</translation>
+        <translation>Encerrar sessão</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="263"/>
         <source>Restart</source>
-        <translation>重启</translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="265"/>
         <source>Power Off</source>
-        <translation>关机</translation>
+        <translation>Desligar</translation>
     </message>
     <message>
         <location filename="../src/RightClickMenu/rightclickmenu.cpp" line="292"/>
         <source>Personalize this list</source>
-        <translation>设置开始菜单显示列表</translation>
+        <translation>Pesonalizar</translation>
     </message>
 </context>
 <context>
@@ -247,51 +247,51 @@
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="95"/>
         <source>All</source>
-        <translation>所有软件</translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="97"/>
         <source>Letter</source>
-        <translation>字母排序</translation>
+        <translation>Carta</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="99"/>
         <source>Function</source>
-        <translation>功能分类</translation>
+        <translation>Função</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="113"/>
         <source>Trash</source>
-        <translation>回收站</translation>
+        <translation>Lixão</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="115"/>
         <source>Computer</source>
-        <translation>计算机</translation>
+        <translation>Computador</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="469"/>
         <source>Max</source>
-        <translation>放大</translation>
+        <translation>Máx</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="111"/>
         <source>Personal</source>
-        <translation>个人</translation>
+        <translation>Pessoal</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="117"/>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Recycle Bin</source>
-        <translation type="vanished">回收站</translation>
+        <translation type="vanished">Lixeira</translation>
     </message>
     <message>
         <location filename="../src/SideBarWidget/sidebarwidget.cpp" line="119"/>
         <source>Power</source>
-        <translation>电源</translation>
+        <translation>Força</translation>
     </message>
 </context>
 <context>
@@ -299,57 +299,57 @@
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="79"/>
         <source>Mobile</source>
-        <translation>移动</translation>
+        <translation>Móvel动</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="82"/>
         <source>Internet</source>
-        <translation>网络</translation>
+        <translation>Internet</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="85"/>
         <source>Social</source>
-        <translation>社交</translation>
+        <translation>Social</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="88"/>
         <source>Video</source>
-        <translation>影音</translation>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="91"/>
         <source>Development</source>
-        <translation>开发</translation>
+        <translation>Desenvolvimento</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="94"/>
         <source>Image</source>
-        <translation>图像</translation>
+        <translation>Gráficos</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="97"/>
         <source>Game</source>
-        <translation>游戏</translation>
+        <translation>Jogos</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="100"/>
         <source>Office</source>
-        <translation>办公</translation>
+        <translation>Escritório</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="103"/>
         <source>Education</source>
-        <translation>教育</translation>
+        <translation>Educação</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="106"/>
         <source>System</source>
-        <translation>系统</translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../src/UtilityFunction/splitbarframe.cpp" line="109"/>
         <source>Others</source>
-        <translation>其它</translation>
+        <translation>Outros</translation>
     </message>
 </context>
 </TS>
